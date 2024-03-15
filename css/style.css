@@ -214,7 +214,7 @@
     }
 
     .container.facts .facts-text {
-        padding-left: calc(((100% - 960px) / 2) + .75rem);
+        /* padding-left: calc(((100% - 960px) / 2) + .75rem); */
     }
 
     .container.facts .facts-counter {
@@ -224,7 +224,7 @@
 
 @media (min-width: 1200px) {
     .container.facts .facts-text {
-        padding-left: calc(((100% - 1140px) / 2) + .75rem);
+        /* padding-left: calc(((100% - 1140px) / 2) + .75rem); */
     }
 
     .container.facts .facts-counter {
